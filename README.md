@@ -12,9 +12,9 @@ iii. To analyse the accuracy of the sensor like vibration and filter regarding t
 
 Software and Hardware:
 
-Arduino Uno
-High Resolution Ultrasonic Range Finder Sensors (LV-MaxSonar-EZ1)
-Voice module
+Arduino Uno;
+Ultrasonic Range Sensor model SN-LV-EZ1;
+Voice module, WTV020-SD-16P;
 Arduino IDE
 
 
